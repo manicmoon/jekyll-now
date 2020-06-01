@@ -1,4 +1,8 @@
-I created a simple script to perform the following on a list of e-mail addresses:
+I created a simple script to perform the following on a list of e-mail addresses.
+
+I needed to remove licensing for a bunch of accounts, but need to remove their data first.
+
+The below will:
 
 * Remove Veeam O365 backup data for a user (Exchange, Sharepoint, OneDrive)
 * Remove Veeam licensing from said user
